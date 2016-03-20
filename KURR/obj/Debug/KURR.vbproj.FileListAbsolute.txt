@@ -1,0 +1,8 @@
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\bin\KURR.dll
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\bin\KURR.pdb
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\bin\KURR.xml
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\obj\Debug\KURR.Resources.resources
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\obj\Debug\KURR.vbproj.GenerateResource.Cache
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\obj\Debug\KURR.dll
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\obj\Debug\KURR.xml
+c:\users\lol\documents\visual studio 2010\Projects\KURR\KURR\obj\Debug\KURR.pdb
